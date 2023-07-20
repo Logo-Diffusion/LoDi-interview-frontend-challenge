@@ -14,7 +14,7 @@ You don't have to use redux for all your states, you can use local state wheneve
 
 ![Modal](./images/ModalDesign.png)
 
-
+[Figma file](https://www.figma.com/file/lzxEDJ6Yo0nwPcIrVvlB8W/questionnaire?type=design&mode=design&t=tXptRLx3qh5BWkSJ-1)
 # Requirements:
 Here's a list of all that needs to be done for this test. Be sure to checkout [the backend documentation](https://qstnr.intvw.logodiffusion.com/docs/) before desiging the state structures. Be sure to end all backend urls with an appending slash.
 
