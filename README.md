@@ -16,7 +16,7 @@ You don't have to use redux for all your states, you can use local state wheneve
 
 
 # Requirements:
-Here's a list of all that needs to be done for this test. Be sure to checkout [the backend documentation](https://qstnr.intvw.logodiffusion.com/docs/) before desiging the state structures.
+Here's a list of all that needs to be done for this test. Be sure to checkout [the backend documentation](https://qstnr.intvw.logodiffusion.com/docs/) before desiging the state structures. Be sure to end all backend urls with an appending slash.
 
 - [ ] Load question data from 'components/questionnaire.js'
 - [ ] Move between the questions with next/previous button
