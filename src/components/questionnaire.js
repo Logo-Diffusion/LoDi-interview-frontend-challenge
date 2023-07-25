@@ -8,7 +8,7 @@ import { ReactComponent as MyBusinessIcon } from '../assets/questionnaire/3-busi
 import { ReactComponent as ClientIcon } from '../assets/questionnaire/3-client.svg';
 import { ReactComponent as CuriousIcon } from '../assets/questionnaire/3-curious.svg';
 
-export const QuestionnairePages = [
+export const questionnairePages = [
   {
     title: 'What role describes you best?',
     key: 'occupation',
